@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: startupgenius.vercel.app
+Sitemap: https://startupgenius.vercel.app/sitemap.xml 
